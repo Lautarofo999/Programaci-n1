@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\bin\Debug\net6.0\repaso while.exe
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\bin\Debug\net6.0\repaso while.deps.json
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\bin\Debug\net6.0\repaso while.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\bin\Debug\net6.0\repaso while.dll
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\bin\Debug\net6.0\repaso while.pdb
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\repaso while.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\repaso while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\repaso while.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\repaso while.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\repaso while.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\repaso while.dll
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\refint\repaso while.dll
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\repaso while.pdb
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\repaso while.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Repaso1\repaso while\obj\Debug\net6.0\ref\repaso while.dll
